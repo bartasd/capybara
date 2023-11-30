@@ -32,7 +32,7 @@ console.log(asd2);
 
 // tai masyvo ilgis 1 lygmens, nuo 10 iki 20 ar nuo 10 iki 30
 
-let repeats = Math.floor(Math.random()*10 + 10);
+let repeats = Math.floor(Math.random()*10 + 30);
 let asd3 = [];
 
 for(let i = 0; i < repeats; i++)
