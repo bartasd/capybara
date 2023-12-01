@@ -1,0 +1,23 @@
+{
+  "name": "capybaros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "test": "nodemon ./homework-functions.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartasd/capybara.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartasd/capybara/issues"
+  },
+  "homepage": "https://github.com/bartasd/capybara#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
