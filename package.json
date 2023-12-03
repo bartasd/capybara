@@ -4,7 +4,7 @@
   "description": "",
   "main": "array.js",
   "scripts": {
-    "test": "nodemon ./homework-masyvai.js"
+    "test": "nodemon ./homework-loops.js"
   },
   "repository": {
     "type": "git",
